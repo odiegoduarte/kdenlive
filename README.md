@@ -8,19 +8,17 @@ Olá! Neste repositório, compartilho minhas criações e modificações feitas 
 [EN]
 Hello! In this repository, I share my creations and modifications focused on Kdenlive. Here, you will find a variety of content related to Kdenlive, including projects and customizations that I have developed. Feel free to explore and make the most of what is available here!
 
-<br>
+<br><br>
 
-### Title Templates
-
- Description | Download
------------- | -------------
-Lower Thirds Minimalist Animated | https://www.pling.com/p/2058154
-Texto 1 | Texto 2
-
+# [Downloads](https://www.pling.com/u/diegoduarte/)
 
 <br><br>
 
-[Pling](https://www.pling.com/p/2058154/)
-[Kdenlive](https://kdenlive.org/en/)
+#### Links
+- [Pling](https://www.pling.com/u/diegoduarte/)
+- [Kdenlive](https://kdenlive.org/en/)
+- [Kdenlive Manual](https://docs.kdenlive.org/en/)
+- [Forum Kdenlive](https://forum.kde.org/viewforum.php%3Ff=262.html)
+- [Reddit Kdenlive](https://www.reddit.com/r/kdenlive/)
 
 <br><br>
